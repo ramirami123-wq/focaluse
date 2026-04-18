@@ -75,6 +75,9 @@
         "buy_buttons",
         "liquid_tGfrix"
       ],
+      "custom_css": [
+        ".price {display: none;}"
+      ],
       "settings": {
         "show_vendor": false,
         "show_sku": false,
@@ -102,6 +105,7 @@
       "block_order": [
         "description"
       ],
+      "disabled": true,
       "settings": {}
     },
     "product-recommendations": {
@@ -121,10 +125,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Free Delivery all over Lebanon",
-            "text_2": "Free Delivery all over Lebanon",
-            "text_3": "Free Delivery all over Lebanon",
-            "text_4": "Free Delivery all over Lebanon",
+            "text_1": "Delivery all over Lebanon",
+            "text_2": "Delivery all over Lebanon",
+            "text_3": "Delivery all over Lebanon",
+            "text_4": "Delivery all over Lebanon",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -139,7 +143,7 @@
             "item_spacing": 60,
             "padding_vertical": 10,
             "desktop_width_percent": 100,
-            "background_color": "#f7f7f7"
+            "background_color": "#a8bcd9"
           },
           "blocks": {}
         }
@@ -163,22 +167,10 @@
             "button_text": "",
             "button_link": ""
           }
-        },
-        "item_BrjwQF": {
-          "type": "item",
-          "settings": {
-            "tab_label": "",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "button_text": "",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "item_HWCbep",
-        "item_BrjwQF"
+        "item_HWCbep"
       ],
       "name": "Image with text",
       "settings": {
@@ -194,16 +186,52 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
+    "blocks_BNBqP7": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_adef03d_Em3jGC": {
+          "type": "ai_gen_block_adef03d",
+          "name": "Free delivery on orders",
+          "settings": {
+            "text_1": "Delivery all over Lebanon",
+            "text_2": "Delivery all over Lebanon",
+            "text_3": "Delivery all over Lebanon",
+            "text_4": "Delivery all over Lebanon",
+            "show_icon": false,
+            "icon_type": "star",
+            "icon_size": 20,
+            "icon_color": "#0c1b54",
+            "icon_text_spacing": 8,
+            "text_size": 16,
+            "text_weight": "500",
+            "text_transform": "none",
+            "text_color": "#000000",
+            "speed": 5,
+            "pause_on_hover": true,
+            "item_spacing": 60,
+            "padding_vertical": 10,
+            "desktop_width_percent": 100,
+            "background_color": "#a8bcd9"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_adef03d_Em3jGC"
+      ],
+      "settings": {}
+    },
     "image_with_text_XrnFrQ": {
       "type": "image-with-text",
       "blocks": {
         "item_GpEwj6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1775734839_phpa1c2ll492c3s2JkK8e2.png",
             "tab_label": "",
             "subheading": "",
-            "title": "",
-            "content": "<p><br/>Stylish yet practical, this pouch helps you stay prepared without adding bulk to your bag. Whether at home or on the move, Nazzemni makes organization simple and elegant. ✨<br/><br/></p>",
+            "title": "Wake Up Rested. Every Single Morning.",
+            "content": "<p>You don't just want to stop snoring — you want to stop dreading bedtime, stop waking up foggy, and stop sleeping in separate rooms. </p>",
             "button_text": "",
             "button_link": ""
           }
@@ -212,7 +240,6 @@
       "block_order": [
         "item_GpEwj6"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,
@@ -230,16 +257,6 @@
     "com_6hdjLn": {
       "type": "com",
       "blocks": {
-        "item_77LR69": {
-          "type": "item",
-          "settings": {
-            "row_heading": "Multiple sizes included (S / M / L)",
-            "first_column": "Yes",
-            "second_column": "No",
-            "third_column": "",
-            "four_column": ""
-          }
-        },
         "item_dEPCJH": {
           "type": "item",
           "settings": {
@@ -272,7 +289,6 @@
         }
       },
       "block_order": [
-        "item_77LR69",
         "item_dEPCJH",
         "item_KWPwtH",
         "item_jEyeCX"
@@ -470,6 +486,7 @@
     "product-recommendations",
     "1772112756b71eda01",
     "image_with_text_8YkwVd",
+    "blocks_BNBqP7",
     "image_with_text_XrnFrQ",
     "com_6hdjLn",
     "faq_cbkQ3V",
