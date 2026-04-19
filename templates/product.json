@@ -293,6 +293,7 @@
         "item_KWPwtH",
         "item_jEyeCX"
       ],
+      "disabled": true,
       "name": "SS - Comparison Table #4",
       "settings": {
         "heading": "<h2>US VS OTHER BRANDS</h2>",
@@ -409,6 +410,19 @@
         "lazy": false
       }
     },
+    "custom_liquid_RnK6Mt": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>\n@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=DM+Sans:wght@300;400;500&display=swap');\n*{box-sizing:border-box;margin:0;padding:0}\n.wrap{font-family:'DM Sans',sans-serif;background:#fff;padding:32px 16px;width:100%}\n.eyebrow{font-size:11px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:#72A6F3;margin-bottom:12px}\n.headline{font-family:'DM Sans',sans-serif;font-size:26px;font-weight:700;line-height:1.2;color:#111;margin-bottom:24px}\n.headline em{font-style:italic;color:#72A6F3}\n.table{width:100%;border-collapse:collapse;border-radius:12px;overflow:hidden;border:0.5px solid #d0e2fc;table-layout:fixed}\n.thead{background:#72A6F3}\n.thead th{padding:12px 8px;font-size:12px;font-weight:500;color:#fff;text-align:center;word-break:break-word}\n.thead th:first-child{text-align:left;width:56%}\n.thead th:nth-child(2),.thead th:nth-child(3){width:22%}\n.row{border-bottom:0.5px solid #EAF1FE}\n.row:last-child{border-bottom:none}\n.row:nth-child(even) td{background:#F4F8FF}\n.row:nth-child(odd) td{background:#fff}\ntd{padding:12px 8px;font-size:13px;color:#333;text-align:center;vertical-align:middle;word-break:break-word}\ntd:first-child{text-align:left;font-weight:400;color:#1a1a1a;padding-left:12px}\n.check{width:22px;height:22px;border-radius:50%;background:#72A6F3;display:inline-flex;align-items:center;justify-content:center}\n.check svg{width:11px;height:11px;stroke:#fff;fill:none;stroke-width:2.5}\n.cross{width:22px;height:22px;border-radius:50%;background:#E24B4A;display:inline-flex;align-items:center;justify-content:center}\n.cross svg{width:11px;height:11px;stroke:#fff;fill:none;stroke-width:2.5}\n</style>\n</head>\n<body>\n\n<div class=\"wrap\">\n  <p class=\"eyebrow\">The Sleep Lab</p>\n  <h2 class=\"headline\">Us vs. <em>the rest</em></h2>\n\n  <table class=\"table\">\n    <thead>\n      <tr class=\"thead\">\n        <th>Features</th>\n        <th>Ours</th>\n        <th>Others</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"row\">\n        <td>Reduces snoring</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n      <tr class=\"row\">\n        <td>Discreet</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n      <tr class=\"row\">\n        <td>Ultra soft & pliable</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n      <tr class=\"row\">\n        <td>Customize for perfect fit</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n      <tr class=\"row\">\n        <td>Stays in place all night</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n      <tr class=\"row\">\n        <td>Comfortable</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n      <tr class=\"row\">\n        <td>Reusable</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n      <tr class=\"row\">\n        <td>Affordable</td>\n        <td><span class=\"check\"><svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"/></svg></span></td>\n        <td><span class=\"cross\"><svg viewBox=\"0 0 24 24\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg></span></td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n</body>\n</html>",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "faq_cbkQ3V": {
       "type": "faq",
       "blocks": {
@@ -503,6 +517,7 @@
     "blocks_BNBqP7",
     "image_with_text_XrnFrQ",
     "com_6hdjLn",
+    "custom_liquid_RnK6Mt",
     "faq_cbkQ3V",
     "17765406027bd8e456"
   ]
