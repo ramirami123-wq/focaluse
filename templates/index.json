@@ -303,6 +303,19 @@
         "reveal_on_scroll": true,
         "label": "Shop the looks"
       }
+    },
+    "custom_liquid_k9BP4T": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "liquid": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap');\n*{box-sizing:border-box;margin:0;padding:0}\n.s{font-family:'DM Sans',sans-serif;background:#fff;color:#1a1a1a;padding:40px 20px;max-width:480px;margin:0 auto}\n.eyebrow{font-size:11px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:#3B6D11;margin-bottom:14px}\n.headline{font-family:'Playfair Display',serif;font-size:32px;font-weight:700;line-height:1.15;color:#111;margin-bottom:10px}\n.headline em{font-style:italic;color:#A8BCD9}\n.sub{font-size:15px;font-weight:300;color:#666;line-height:1.65;margin-bottom:32px}\n.outcomes{display:flex;flex-direction:column;gap:12px;margin-bottom:32px}\n.oi{display:flex;align-items:flex-start;gap:12px;padding:14px 16px;background:#F8FBF5;border:0.5px solid #C0DD97;border-radius:10px}\n.icon-wrap{width:36px;height:36px;border-radius:8px;background:#EAF3DE;display:flex;align-items:center;justify-content:center;flex-shrink:0}\n.icon-wrap svg{width:16px;height:16px;stroke:#3B6D11;fill:none;stroke-width:1.8}\n.ot{font-size:14px;font-weight:500;color:#1a1a1a;margin-bottom:3px}\n.od{font-size:13px;color:#777;line-height:1.5}\n.divider{height:0.5px;background:#e8e8e8;margin:28px 0}\n.sp{background:#FAEEDA;border:0.5px solid #FAC775;border-radius:10px;padding:14px 16px;display:flex;align-items:center;gap:12px;margin-bottom:24px}\n.avs{display:flex}\n.av{width:28px;height:28px;border-radius:50%;border:2px solid #fff;margin-left:-7px;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:500;flex-shrink:0}\n.avs .av:first-child{margin-left:0;background:#C0DD97;color:#27500A}\n.avs .av:nth-child(2){background:#FAC775;color:#633806}\n.avs .av:nth-child(3){background:#B5D4F4;color:#0C447C}\n.sp-txt{font-size:12px;color:#854F0B;line-height:1.4}\n.sp-txt strong{color:#633806;font-weight:500}\n.trust-row{display:grid;grid-template-columns:1fr 1fr;gap:10px}\n.ti{display:flex;align-items:center;gap:7px;font-size:12px;color:#666;padding:10px 12px;background:#F8FBF5;border-radius:8px;border:0.5px solid #e0ecd4}\n.ti svg{width:14px;height:14px;stroke:#3B6D11;fill:none;stroke-width:1.8;flex-shrink:0}\n</style>\n\n<h2 style=\"position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)\">Anti-snoring nasal dilator product section</h2>\n\n<div class=\"s\">\n  <p class=\"eyebrow\">The Sleep Lab — Nasal Dilator</p>\n  <h2 class=\"headline\">Wake Up Rested.<br><em>Every Single Morning.</em></h2>\n  <p class=\"sub\">You don't want to stop snoring. You want to stop dreading bedtime, stop waking up foggy, and stop sleeping in separate rooms.</p>\n\n  <div class=\"outcomes\">\n    <div class=\"oi\">\n      <div class=\"icon-wrap\"><svg viewBox=\"0 0 24 24\"><path d=\"M12 2a10 10 0 1 0 10 10\"/><path d=\"M12 6v6l4 2\"/></svg></div>\n      <div><p class=\"ot\">Breathe freely from night one</p><p class=\"od\">Airways open the moment it's in — no adjustment phase needed.</p></div>\n    </div>\n    <div class=\"oi\">\n      <div class=\"icon-wrap\"><svg viewBox=\"0 0 24 24\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75\"/></svg></div>\n      <div><p class=\"ot\">Your partner sleeps too</p><p class=\"od\">No more 2am elbow nudges. Silence the snoring straining your relationship.</p></div>\n    </div>\n    <div class=\"oi\">\n      <div class=\"icon-wrap\"><svg viewBox=\"0 0 24 24\"><polyline points=\"22 12 18 12 15 21 9 3 6 12 2 12\"/></svg></div>\n      <div><p class=\"ot\">Deeper sleep, sharper days</p><p class=\"od\">More oxygen at night means less brain fog and more energy.</p></div>\n    </div>\n    <div class=\"oi\">\n      <div class=\"icon-wrap\"><svg viewBox=\"0 0 24 24\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/></svg></div>\n      <div><p class=\"ot\">Drug-free, forever</p><p class=\"od\">No pills, no sprays. Soft reusable medical-grade silicone.</p></div>\n    </div>\n  </div>\n\n  <div class=\"divider\"></div>\n\n  <div class=\"sp\">\n    <div class=\"avs\">\n      <div class=\"av\">SR</div>\n      <div class=\"av\">MK</div>\n      <div class=\"av\">JP</div>\n    </div>\n    <p class=\"sp-txt\"><strong>Ordered in the last 24 hours</strong> — 12 people just like you are sleeping better tonight.</p>\n  </div>\n\n  <div class=\"trust-row\">\n  \n    <div class=\"ti\"><svg viewBox=\"0 0 24 24\"><path d=\"M23 7l-7 5-7-5M1 7l7 5 7-5\"/><rect x=\"1\" y=\"4\" width=\"22\" height=\"16\" rx=\"2\"/></svg>24/7 support</div>\n    <div class=\"ti\"><svg viewBox=\"0 0 24 24\"><path d=\"M1 3h15v13H1zM16 8l5 3-5 3V8z\"/></svg>Reusable & easy clean</div>\n  </div>\n</div>",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
@@ -312,6 +325,7 @@
     "featured_product_eVCKmf",
     "17721123692ddca8e9",
     "rich_text_8iDkdx",
-    "shop-the-look"
+    "shop-the-look",
+    "custom_liquid_k9BP4T"
   ]
 }
