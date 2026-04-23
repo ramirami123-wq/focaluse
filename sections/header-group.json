@@ -47,6 +47,7 @@
       "type": "header",
       "settings": {
         "enable_sticky_header": false,
+        "logo": "shopify://shop_images/pfp_the_sleep_lab.jpg",
         "logo_max_width": 160,
         "mobile_logo_max_width": 115,
         "navigation_menu": "main-menu",
